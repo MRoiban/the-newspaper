@@ -2,13 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Basic Apple Guy</title>
-    <link>https://basicappleguy.com/basicappleblog/category/Blog</link>
+    <link>https://basicappleguy.com/</link>
     <description>Latest posts from Basic Apple Guy.</description>
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 GMT</lastBuildDate>
     <item>
-      <title>Haberdashery</title>
-      <link>https://basicappleguy.com/basicappleblog/haberdashery-post</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/haberdashery-post</guid>
-      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1688590909692-X8UUFNGAODUKPQ2S1IOH/Haberdashery3x2.png" medium="image" />
+      <title>Topographic Amoeba</title>
+      <link>https://basicappleguy.com/basicappleblog/topographic-amoeba</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/topographic-amoeba</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1778284250448-Q4GAV2SN44BN36QKMYRO/Amoeba_3x2+2.png" medium="image" />
+    </item>
+    <item>
+      <title>Lil Fin Merch</title>
+      <link>https://basicappleguy.com/basicappleblog/lil-fin-merch</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/lil-fin-merch</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1777501246799-NYL6NZCNWHON5JDMJ4J7/LilFin+6.png" medium="image" />
+    </item>
+    <item>
+      <title>MacBook Neo: Review</title>
+      <link>https://basicappleguy.com/basicappleblog/macbook-neo-review</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/macbook-neo-review</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1776536659395-CA4BWS85WWR7PCTJEJ65/Neo3x2.png" medium="image" />
+    </item>
+    <item>
+      <title>VI</title>
+      <link>https://basicappleguy.com/basicappleblog/vi</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/vi</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1776707297236-FOCI36BUC67ZV0WIN30I/6+3.png" medium="image" />
+    </item>
+    <item>
+      <title>Sound.wav</title>
+      <link>https://basicappleguy.com/basicappleblog/soundwav</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/soundwav</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1775873114776-4AJIXRNIS5EYK73664G3/SoundWave3x2+3.png" medium="image" />
+    </item>
+    <item>
+      <title>Apple Turns 50</title>
+      <link>https://basicappleguy.com/basicappleblog/apple-turns-50</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/apple-turns-50</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1774900146306-MPY5YGG4VJ913QBR77V1/Apple503x2.png" medium="image" />
+    </item>
+    <item>
+      <title>LiL Finder Guy Blind Box</title>
+      <link>https://basicappleguy.com/basicappleblog/lil-finder-guy-blind-box</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/lil-finder-guy-blind-box</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1774986467486-6C5YX0EJU6DMSLU0QSJN/LilFinderFools_3x2.png" medium="image" />
+    </item>
+    <item>
+      <title>Mac Wallpapers</title>
+      <link>https://basicappleguy.com/basicappleblog/mac-wallpapers</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/mac-wallpapers</guid>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1774647098423-I8ER0UQLZQDPVSJJBASR/Mac_iMac3x2.png" medium="image" />
+    </item>
+    <item>
+      <title>Mac Pro</title>
+      <link>https://basicappleguy.com/basicappleblog/mac-pro</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/mac-pro</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1774582873986-RJYQRL9D17JNOVOCEO7W/MacPro3x2.png" medium="image" />
+    </item>
+    <item>
+      <title>50 Years of Thinking Different</title>
+      <link>https://basicappleguy.com/basicappleblog/apple50</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/apple50</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1773362950614-3PFOKHJJEA9Q69OTUPYB/Apple50_3x2.png" medium="image" />
     </item>
   </channel>
 </rss>
