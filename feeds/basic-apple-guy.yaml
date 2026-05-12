@@ -3,6 +3,11 @@ slug: basic-apple-guy
 url: https://basicappleguy.com/
 description: Latest posts from Basic Apple Guy.
 maxItems: 25
+pagination:
+  next:
+    selector: nav.blog-list-pagination .older a
+    attr: href
+  maxPages: 5
 post:
   article: article.blog-item
   title: h1.blog-title
