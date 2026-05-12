@@ -1,6 +1,6 @@
 name: Basic Apple Guy
 slug: basic-apple-guy
-url: https://basicappleguy.com/basicappleblog/category/Blog
+url: https://basicappleguy.com/
 description: Latest posts from Basic Apple Guy.
 maxItems: 25
 post:
@@ -10,7 +10,7 @@ post:
     selector: h1.blog-title a
     attr: href
   date:
-    selector: time.blog-date
+    selector: .blog-meta-primary time.blog-date
   image:
     selector: img.image
     attr: src
