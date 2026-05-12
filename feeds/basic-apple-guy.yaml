@@ -10,8 +10,7 @@ post:
     selector: h1.blog-title a
     attr: href
   date:
-    selector: time, .blog-meta-primary time, .blog-meta-secondary time
-    attr: datetime
+    selector: time.blog-date
   image:
-    selector: img
+    selector: img.image
     attr: src
