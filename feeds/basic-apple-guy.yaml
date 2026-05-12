@@ -6,6 +6,7 @@ maxItems: 25
 post:
   article: article.blog-item
   title: h1.blog-title
+  description: .blog-excerpt
   link:
     selector: h1.blog-title a
     attr: href
