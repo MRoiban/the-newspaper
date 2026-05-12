@@ -1,0 +1,44 @@
+name: Render feed
+
+on:
+  workflow_dispatch:
+    inputs:
+      config_path:
+        description: Feed config path, for example feeds/the-brussels-times.yaml
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render-feed-${{ github.event.inputs.config_path }}
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install renderer dependencies
+        run: bun add puppeteer yaml
+
+      - name: Render feed
+        run: bun scripts/render-feed.mjs "${{ github.event.inputs.config_path }}"
+
+      - name: Commit generated feed
+        run: |
+          if git diff --quiet -- published; then
+            echo "No feed changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add published
+          git commit -m "Render ${{ github.event.inputs.config_path }}"
+          git push
