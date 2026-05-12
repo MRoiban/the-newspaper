@@ -1,0 +1,23 @@
+name: "The Brussels Times"
+slug: the-brussels-times
+url: https://www.brusselstimes.com/brussels
+description: "Latest Brussels posts from The Brussels Times."
+maxItems: 25
+renderer: github-actions
+waitFor: div.articles-grid-item
+pagination:
+  next:
+    selector: a[aria-label="Next page"], a.next, .pagination-next a
+    attr: href
+  maxPages: 5
+post:
+  article: div.articles-grid-item
+  title: "a.article-title > span"
+  description: "p.article-description > a > span"
+  link:
+    selector: a.article-title
+    attr: href
+  date: div.article-date
+  image:
+    selector: img, a.article-image img
+    attr: src
