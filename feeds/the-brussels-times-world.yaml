@@ -1,0 +1,16 @@
+name: "The Brussels Times"
+slug: the-brussels-times-world
+url: https://www.brusselstimes.com/world
+description: "Latest posts from The Brussels Times."
+maxItems: 25
+post:
+  article: div.articles-grid-item
+  title: "a.article-title > span"
+  description: "p.article-description > a > span"
+  link:
+    selector: a.article-title
+    attr: href
+  date: div.article-date
+  image:
+    selector: a.article-image.onscreen
+    attr: src
