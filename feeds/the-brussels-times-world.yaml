@@ -3,6 +3,8 @@ slug: the-brussels-times-world
 url: https://www.brusselstimes.com/world
 description: "Latest posts from The Brussels Times."
 maxItems: 25
+renderer: github-actions
+waitFor: div.articles-grid-item
 post:
   article: div.articles-grid-item
   title: "a.article-title > span"
