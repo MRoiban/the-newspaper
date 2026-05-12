@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Basic Apple Guy</title>
+    <link>https://basicappleguy.com/basicappleblog/category/Blog</link>
+    <description>Latest posts from Basic Apple Guy.</description>
+    <lastBuildDate>Tue, 12 May 2026 07:57:14 GMT</lastBuildDate>
+    <item>
+      <title>Silicon Inside Stickers Now Available</title>
+      <link>https://basicappleguy.com/siliconinside</link>
+      <guid isPermaLink="true">https://basicappleguy.com/siliconinside</guid>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/945efedf-14f7-407c-9592-3e60e2cb3b33/Untitled+6%400.5x.png" medium="image" />
+    </item>
+    <item>
+      <title>Haberdashery</title>
+      <link>https://basicappleguy.com/basicappleblog/haberdashery-post</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/haberdashery-post</guid>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1688590909692-X8UUFNGAODUKPQ2S1IOH/Haberdashery3x2.png" medium="image" />
+    </item>
+  </channel>
+</rss>
