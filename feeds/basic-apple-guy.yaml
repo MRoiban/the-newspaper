@@ -4,13 +4,13 @@ url: https://basicappleguy.com/basicappleblog/category/Blog
 description: Latest posts from Basic Apple Guy.
 maxItems: 25
 post:
-  article: article
-  title: h1, h2, h3
+  article: article.blog-item
+  title: h1.blog-title
   link:
-    selector: a[href]
+    selector: h1.blog-title a
     attr: href
   date:
-    selector: time, .blog-meta-item--date, .entry-date
+    selector: time, .blog-meta-primary time, .blog-meta-secondary time
     attr: datetime
   image:
     selector: img
