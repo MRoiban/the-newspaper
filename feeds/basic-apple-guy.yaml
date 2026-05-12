@@ -1,8 +1,17 @@
-name: "basic-apple-guy"
-url: "https://basicappleguy.com/"
+name: Basic Apple Guy
+slug: basic-apple-guy
+url: https://basicappleguy.com/basicappleblog/category/Blog
+description: Latest posts from Basic Apple Guy.
+maxItems: 25
 post:
-  title: ""
-  article: ""
-  link: ""
-  date: ""
-  image: ""
+  article: article
+  title: h1, h2, h3
+  link:
+    selector: a[href]
+    attr: href
+  date:
+    selector: time, .blog-meta-item--date, .entry-date
+    attr: datetime
+  image:
+    selector: img
+    attr: src
