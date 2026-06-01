@@ -4,7 +4,15 @@
     <title>Basic Apple Guy</title>
     <link>https://basicappleguy.com/</link>
     <description>Latest posts from Basic Apple Guy.</description>
-    <lastBuildDate>Fri, 22 May 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>WWDC26 Wallpaper</title>
+      <link>https://basicappleguy.com/basicappleblog/wwdc26wallpapers</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/wwdc26wallpapers</guid>
+      <description>Apple has stolen my thunder and released an official set of WWDC26 wallpapers.</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1780337715534-WP1SDM7TIH6JJGU97K3C/WWDC263x2.png" medium="image" />
+    </item>
     <item>
       <title>Apps of May: 2026 Edition</title>
       <link>https://basicappleguy.com/basicappleblog/apps-of-may-2026</link>
@@ -196,14 +204,6 @@
       <description>Wallpapers crafted to pair perfectly with the spiritual successor of the iPod Socks. Introducing the iPhone Pocket Wallpaper Collection.</description>
       <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
       <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1763178731820-ZN847ZKY4ONMYNVS3G0J/iPhonePocket1x1+2.png" medium="image" />
-    </item>
-    <item>
-      <title>iPhone 17 Pro Internals Wallpapers</title>
-      <link>https://basicappleguy.com/basicappleblog/iphone-17-pro-internals-wallpapers</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/iphone-17-pro-internals-wallpapers</guid>
-      <description>Two months, thousands of layers, and one big love letter to the Apple community; introducing the Internals Wallpapers for the iPhone 17 Pro &amp;amp; 17 Pro Max.</description>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1762810212793-42GI0187L61ZK8ELE2TI/17ProInternals_3X2.png" medium="image" />
     </item>
   </channel>
 </rss>
