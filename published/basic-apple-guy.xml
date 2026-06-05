@@ -4,7 +4,15 @@
     <title>Basic Apple Guy</title>
     <link>https://basicappleguy.com/</link>
     <description>Latest posts from Basic Apple Guy.</description>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>WWDC26 Bingo</title>
+      <link>https://basicappleguy.com/basicappleblog/wwdc26-bingo</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/wwdc26-bingo</guid>
+      <description>Six years later, and I’m still pretending I know what Apple is about to announce. The WWDC26 Bingo Board returns with another collection of predictions, prognostications, and pure speculation.</description>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1780500766254-MF09GZ3VHJ0ZQWOJ0JG5/3x2.png" medium="image" />
+    </item>
     <item>
       <title>WWDC26 Wallpaper</title>
       <link>https://basicappleguy.com/basicappleblog/wwdc26wallpapers</link>
@@ -196,14 +204,6 @@
       <description>Icon Composer is Apple’s bespoke application for giving your icons that Liquid Glass flair.</description>
       <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
       <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1764262937598-GFJ9OSENBJVPFFCY3NEZ/COMPOSER3x2.png" medium="image" />
-    </item>
-    <item>
-      <title>iPhone Pocket Wallpapers</title>
-      <link>https://basicappleguy.com/basicappleblog/iphone-pocket-wallpapers</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/iphone-pocket-wallpapers</guid>
-      <description>Wallpapers crafted to pair perfectly with the spiritual successor of the iPod Socks. Introducing the iPhone Pocket Wallpaper Collection.</description>
-      <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1763178731820-ZN847ZKY4ONMYNVS3G0J/iPhonePocket1x1+2.png" medium="image" />
     </item>
   </channel>
 </rss>
