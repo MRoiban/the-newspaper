@@ -4,7 +4,13 @@
     <title>Basic Apple Guy</title>
     <link>https://basicappleguy.com/</link>
     <description>Latest posts from Basic Apple Guy.</description>
-    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>macOS Golden Gate Icon Comparison</title>
+      <link>https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>macOS Golden Gate Adventure</title>
       <link>https://basicappleguy.com/basicappleblog/macos-golden-gate-adventure</link>
@@ -196,14 +202,6 @@
       <description>The annual 2025 Apple Product Tier List, where I rate everything Apple released in 2025.</description>
       <pubDate>Sat, 20 Dec 2025 00:00:00 GMT</pubDate>
       <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1766284520934-0I278ZBDJ9XJ21RHR3LP/TierList2025+3.png" medium="image" />
-    </item>
-    <item>
-      <title>Ugly Christmas Sweater: 2025 Edition</title>
-      <link>https://basicappleguy.com/basicappleblog/ugly-christmas-sweater-2025-edition</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/ugly-christmas-sweater-2025-edition</guid>
-      <description>The Ugly Christmas Sweater Wallpaper Collection is back for 2025, woven together with 63,158 tiny stitches for the Mac and 20,765 more for iPhone.</description>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1765427923862-0RM5WZQ11977AK3SSNIM/UglySweater3x2.png" medium="image" />
     </item>
   </channel>
 </rss>
