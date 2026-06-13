@@ -4,7 +4,15 @@
     <title>Basic Apple Guy</title>
     <link>https://basicappleguy.com/</link>
     <description>Latest posts from Basic Apple Guy.</description>
-    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>macOS Golden Gate</title>
+      <link>https://basicappleguy.com/basicappleblog/macos-golden-gate</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/macos-golden-gate</guid>
+      <description>macOS Golden Gate deserved a wallpaper inspired by its namesake.</description>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1781381520021-BC5MGF1F49RC64LBKVSW/GoldenGate_3x2.png" medium="image" />
+    </item>
     <item>
       <title>macOS Golden Gate Icon Comparison</title>
       <link>https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison</link>
@@ -196,14 +204,6 @@
       <description>Part I of my fifth annual Rewind Series is a look back at the year and my three favourite articles from 2025.</description>
       <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
       <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1767045147982-RNHWKFG263E5O6XUN7FF/REWIND_Articles_2025_3x2.png" medium="image" />
-    </item>
-    <item>
-      <title>2025 Apple Product Tier List</title>
-      <link>https://basicappleguy.com/basicappleblog/appleproducttierlist2025</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/appleproducttierlist2025</guid>
-      <description>The annual 2025 Apple Product Tier List, where I rate everything Apple released in 2025.</description>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 GMT</pubDate>
-      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1766284520934-0I278ZBDJ9XJ21RHR3LP/TierList2025+3.png" medium="image" />
     </item>
   </channel>
 </rss>
