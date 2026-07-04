@@ -4,7 +4,15 @@
     <title>Basic Apple Guy</title>
     <link>https://basicappleguy.com/</link>
     <description>Latest posts from Basic Apple Guy.</description>
-    <lastBuildDate>Wed, 24 Jun 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>RAMmaggedon</title>
+      <link>https://basicappleguy.com/basicappleblog/rammaggedon</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/rammaggedon</guid>
+      <description>RAMmaggedon comes for Apple, leaving price increases of up to 67% in its wake.</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1783136842674-Q5V59FM3VLYH5VOXRSCX/RAM3x2.png" medium="image" />
+    </item>
     <item>
       <title>macOS California Camino</title>
       <link>https://basicappleguy.com/basicappleblog/macos-california-adventure</link>
@@ -196,14 +204,6 @@
       <description>Three new apps to ring in the new year. Reclaim six years of your life, learn something new, and a journal app for people who don’t like to journal.</description>
       <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
       <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1767393249513-5D0RJL44HWJMCN5LO132/3+new+apps+2.png" medium="image" />
-    </item>
-    <item>
-      <title>Rewind 2025: Wallpapers</title>
-      <link>https://basicappleguy.com/basicappleblog/rewind-2025-wallpapers</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/rewind-2025-wallpapers</guid>
-      <description>Part II of my fifth annual Rewind Series is a look back at the year and my three favourite wallpapers from 2025.</description>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1767116328025-243GZ2240BDJIL4JZ0NN/RewindWall3x2.png" medium="image" />
     </item>
   </channel>
 </rss>
