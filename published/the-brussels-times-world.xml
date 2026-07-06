@@ -4,7 +4,14 @@
     <title>The Brussels Times</title>
     <link>https://www.brusselstimes.com/world</link>
     <description>Latest posts from The Brussels Times.</description>
-    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>UN chief calls for international rules on AI to mitigate risks</title>
+      <link>https://www.brusselstimes.com/world/2216833/un-chief-calls-for-international-rules-on-ai-to-mitigate-risks</link>
+      <guid isPermaLink="true">https://www.brusselstimes.com/world/2216833/un-chief-calls-for-international-rules-on-ai-to-mitigate-risks</guid>
+      <description>&quot;If AI is to be powerful, it must also be regulated.&quot;</description>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Red Devils face co-hosts in tricky World Cup last-16 tie</title>
       <link>https://www.brusselstimes.com/world/2215222/red-devils-face-co-hosts-in-tricky-world-cup-last-16-tie</link>
@@ -137,13 +144,6 @@
       <guid isPermaLink="true">https://www.brusselstimes.com/world/2209474/sea-surface-temperatures-break-records</guid>
       <description>Exceptionally high global sea surface temperatures will have an impact on marine ecosystems, weather patterns and the climate across the entire planet.</description>
       <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Euroclear sues Russian Central Bank in Brussels court</title>
-      <link>https://www.brusselstimes.com/world/2209129/euroclear-sues-russian-central-bank-in-brussels-court</link>
-      <guid isPermaLink="true">https://www.brusselstimes.com/world/2209129/euroclear-sues-russian-central-bank-in-brussels-court</guid>
-      <description>Euroclear holds around €200 billion of Russian funds, which have been blocked due to sanctions imposed by the EU following the invasion of Ukraine.</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
