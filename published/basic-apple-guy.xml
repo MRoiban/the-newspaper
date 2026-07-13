@@ -4,7 +4,15 @@
     <title>Basic Apple Guy</title>
     <link>https://basicappleguy.com/</link>
     <description>Latest posts from Basic Apple Guy.</description>
-    <lastBuildDate>Fri, 03 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Atlas Apple Park</title>
+      <link>https://basicappleguy.com/basicappleblog/atlas-apple-park</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/atlas-apple-park</guid>
+      <description>Introducing Atlas Apple Park, a new collection of topographic wallpapers of the Cupertino area and the Apple Park campus.</description>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1783974663175-1CVFCC57QMHCF2L11S0G/AtlasApplePark3x2.png" medium="image" />
+    </item>
     <item>
       <title>RAMmaggedon</title>
       <link>https://basicappleguy.com/basicappleblog/rammaggedon</link>
@@ -196,14 +204,6 @@
       <description>Introducing Hive, a minimalist gradient wallpaper collection for your Apple devices.</description>
       <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
       <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1767838170066-RS1P7Y5K6YI2MPFHMIYX/Hive3x2.png" medium="image" />
-    </item>
-    <item>
-      <title>New Year, New Apps: 2026 Edition</title>
-      <link>https://basicappleguy.com/basicappleblog/new-year-new-apps-2026-edition</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/new-year-new-apps-2026-edition</guid>
-      <description>Three new apps to ring in the new year. Reclaim six years of your life, learn something new, and a journal app for people who don’t like to journal.</description>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
-      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1767393249513-5D0RJL44HWJMCN5LO132/3+new+apps+2.png" medium="image" />
     </item>
   </channel>
 </rss>
