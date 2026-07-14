@@ -4,7 +4,14 @@
     <title>The Brussels Times</title>
     <link>https://www.brusselstimes.com/brussels</link>
     <description>Latest Brussels posts from The Brussels Times.</description>
-    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Fire in building near Place De Brouckère leaves at least one injured</title>
+      <link>https://www.brusselstimes.com/brussels/2228893/fire-breaks-out-in-building-near-place-de-brouckere</link>
+      <guid isPermaLink="true">https://www.brusselstimes.com/brussels/2228893/fire-breaks-out-in-building-near-place-de-brouckere</guid>
+      <description>Emergency services are on the scene where the fire broke out earlier today. Search and rescue operations are currently underway.</description>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Two people charged with robbery near Brussels-North station</title>
       <link>https://www.brusselstimes.com/brussels/2228025/two-people-charged-with-robbery-near-brussels-north-station</link>
@@ -137,13 +144,6 @@
       <guid isPermaLink="true">https://www.brusselstimes.com/brussels/2220192/brussels-new-digital-metro-totems-win-design-award</guid>
       <description>The new digital information signs at metro stations in Brussels won a Red Dot Award for Product Design.</description>
       <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Old Brussels motorway transformed into green urban boulevard</title>
-      <link>https://www.brusselstimes.com/brussels/2216699/old-brussels-motorway-transformed-into-green-urban-boulevard</link>
-      <guid isPermaLink="true">https://www.brusselstimes.com/brussels/2216699/old-brussels-motorway-transformed-into-green-urban-boulevard</guid>
-      <description>The redesigned stretch of the motorway will allow locals to stroll or cycle along what was once a busy and noisy main access road into the capital.</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
