@@ -4,7 +4,15 @@
     <title>Basic Apple Guy</title>
     <link>https://basicappleguy.com/</link>
     <description>Latest posts from Basic Apple Guy.</description>
-    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Lil Finder Guy Updates</title>
+      <link>https://basicappleguy.com/basicappleblog/lil-finder-guy-updates</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/lil-finder-guy-updates</guid>
+      <description>Lil Finder Guy. Born: 2026.04.11. Height: One Apple Tall.</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1784925379675-ZVXJ14P0MHMIP2GYD7HK/finder3x2.png" medium="image" />
+    </item>
     <item>
       <title>Atlas Apple Park</title>
       <link>https://basicappleguy.com/basicappleblog/atlas-apple-park</link>
@@ -196,14 +204,6 @@
       <description>A look back at more than six years of Apple’s Lunar and Japanese New Year exclusives.</description>
       <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
       <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1769040791173-YSBOR6AXYQMVKH5D9C0E/Zodiac+3.png" medium="image" />
-    </item>
-    <item>
-      <title>Hive</title>
-      <link>https://basicappleguy.com/basicappleblog/hive</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/hive</guid>
-      <description>Introducing Hive, a minimalist gradient wallpaper collection for your Apple devices.</description>
-      <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
-      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1767838170066-RS1P7Y5K6YI2MPFHMIYX/Hive3x2.png" medium="image" />
     </item>
   </channel>
 </rss>
