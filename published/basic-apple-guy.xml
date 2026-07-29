@@ -4,7 +4,15 @@
     <title>Basic Apple Guy</title>
     <link>https://basicappleguy.com/</link>
     <description>Latest posts from Basic Apple Guy.</description>
-    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Mosaic</title>
+      <link>https://basicappleguy.com/basicappleblog/mosaic-wallpaper</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/mosaic-wallpaper</guid>
+      <description>Mosaic is a fun and vibrant collection for your Apple devices.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1785358990466-RHI3165RV3RQV7CACWXA/Mosaic3x2.png" medium="image" />
+    </item>
     <item>
       <title>Lil Finder Guy Updates</title>
       <link>https://basicappleguy.com/basicappleblog/lil-finder-guy-updates</link>
@@ -196,14 +204,6 @@
       <description>Introducing Floral - a collection of five minimalistic flower wallpapers for your Mac, iPhone, and iPad.</description>
       <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
       <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1769035258678-5CBRA2ZFSBK29OW13PG7/Floral1x1+2.png" medium="image" />
-    </item>
-    <item>
-      <title>Lunar New Year</title>
-      <link>https://basicappleguy.com/basicappleblog/lunar-new-year</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/lunar-new-year</guid>
-      <description>A look back at more than six years of Apple’s Lunar and Japanese New Year exclusives.</description>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
-      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1769040791173-YSBOR6AXYQMVKH5D9C0E/Zodiac+3.png" medium="image" />
     </item>
   </channel>
 </rss>
