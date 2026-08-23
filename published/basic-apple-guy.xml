@@ -4,7 +4,15 @@
     <title>Basic Apple Guy</title>
     <link>https://basicappleguy.com/</link>
     <description>Latest posts from Basic Apple Guy.</description>
-    <lastBuildDate>Wed, 29 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Summit</title>
+      <link>https://basicappleguy.com/basicappleblog/summit</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/summit</guid>
+      <description>Introducing the Summit Series, a new series of wallpapers for your iPhone, Mac, and iPad that&apos;s sure to peak your interest!</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1787455470991-IC1SHCE404GANOMR2VHU/Summit3x2.png" medium="image" />
+    </item>
     <item>
       <title>Mosaic</title>
       <link>https://basicappleguy.com/basicappleblog/mosaic-wallpaper</link>
@@ -196,14 +204,6 @@
       <description>A fresh batch of fluted gradient wallpapers dropping across the month of February.</description>
       <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
       <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1769723048411-0MXO8IZ8BNI33Q8U0AD1/Fluted+Gradients+3x2.png" medium="image" />
-    </item>
-    <item>
-      <title>Floral</title>
-      <link>https://basicappleguy.com/basicappleblog/floral</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/floral</guid>
-      <description>Introducing Floral - a collection of five minimalistic flower wallpapers for your Mac, iPhone, and iPad.</description>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
-      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1769035258678-5CBRA2ZFSBK29OW13PG7/Floral1x1+2.png" medium="image" />
     </item>
   </channel>
 </rss>
