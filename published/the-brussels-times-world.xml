@@ -4,7 +4,14 @@
     <title>The Brussels Times</title>
     <link>https://www.brusselstimes.com/world</link>
     <description>Latest posts from The Brussels Times.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Iranian hackers shut down British power plant</title>
+      <link>https://www.brusselstimes.com/world/2284071/iranian-hackers-shut-down-british-power-plant</link>
+      <guid isPermaLink="true">https://www.brusselstimes.com/world/2284071/iranian-hackers-shut-down-british-power-plant</guid>
+      <description>The attack may have been intended to demonstrate that hackers linked to Iran’s Revolutionary Guard can gain access to critical infrastructure.</description>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Indonesia deploys 1,500 additional troops to fight wildfires raging in Borneo</title>
       <link>https://www.brusselstimes.com/world/2283488/indonesia-deploys-1500-additional-troops-to-fight-wildfires-raging-on-borneo</link>
@@ -137,13 +144,6 @@
       <guid isPermaLink="true">https://www.brusselstimes.com/world/2271018/chapel-in-france-saved-from-wildfire-by-belgian-firefighters</guid>
       <description>Belgian firefighters crossed the border into France on Thursday evening, helping save a chapel just metres away from a wildfire.</description>
       <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Romania shuts down its last nuclear reactor due to lack of water</title>
-      <link>https://www.brusselstimes.com/world/2269644/romania-shuts-down-its-last-nuclear-reactor-due-to-lack-of-water</link>
-      <guid isPermaLink="true">https://www.brusselstimes.com/world/2269644/romania-shuts-down-its-last-nuclear-reactor-due-to-lack-of-water</guid>
-      <description>Romania has shut down the last operating reactor at its only nuclear power plant in Cernavoda on Thursday morning as the Danube’s water level had fallen too low after a prolonged drought.</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
