@@ -4,7 +4,14 @@
     <title>The Brussels Times</title>
     <link>https://www.brusselstimes.com/world</link>
     <description>Latest posts from The Brussels Times.</description>
-    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Boeing experiences software issues with 737 Max planes</title>
+      <link>https://www.brusselstimes.com/world/2335343/boeing-discovers-new-software-issue-with-the-737-max</link>
+      <guid isPermaLink="true">https://www.brusselstimes.com/world/2335343/boeing-discovers-new-software-issue-with-the-737-max</guid>
+      <description>The issue was flagged after a software update and had been due for a permanent fix in 2028, but it now threatens delays for new aircraft variants.</description>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Road works halt traffic towards the Netherlands</title>
       <link>https://www.brusselstimes.com/world/2334497/road-works-halt-traffic-towards-the-netherlands</link>
@@ -137,13 +144,6 @@
       <guid isPermaLink="true">https://www.brusselstimes.com/world/2329842/polish-army-reports-short-airspace-violation-by-russian-army-helicopter</guid>
       <description>Polish army had to scramble fighter jets and put ground troops on alert.</description>
       <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Denmark, Greenland and US sign security agreement</title>
-      <link>https://www.brusselstimes.com/world/2328937/denmark-greenland-and-us-sign-security-agreement</link>
-      <guid isPermaLink="true">https://www.brusselstimes.com/world/2328937/denmark-greenland-and-us-sign-security-agreement</guid>
-      <description>&apos;The agreement recognizes the sovereignty and territorial integrity of our Kingdom [Denmark] and the Greenlandic people&apos;s right to self-determination.&apos;</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
