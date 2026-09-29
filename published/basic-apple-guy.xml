@@ -4,7 +4,15 @@
     <title>Basic Apple Guy</title>
     <link>https://basicappleguy.com/</link>
     <description>Latest posts from Basic Apple Guy.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Apple Maps, Apple Stores</title>
+      <link>https://basicappleguy.com/basicappleblog/apple-maps-apple-stores</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/apple-maps-apple-stores</guid>
+      <description>An archive of the detailed 3D Apple Store models in Apple Maps.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1790651250903-A6QKYLQ3ZD5PEG6WK8G7/AppleMaps3x2.png" medium="image" />
+    </item>
     <item>
       <title>Surprise and Shine Apple Event Bingo</title>
       <link>https://basicappleguy.com/basicappleblog/surprise-and-shine-apple-event-bingo</link>
@@ -196,14 +204,6 @@
       <description>Who is it? What is it? Is it friend or foe? Has it arrived in peace, or is it plotting to corrupt our SSDs and fray our USB-C cables?</description>
       <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
       <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1772989911603-XHHDIXTZII0YC6LFLOZI/Lil+Finder+Guy+2.png" medium="image" />
-    </item>
-    <item>
-      <title>The Push-Up Challenge</title>
-      <link>https://basicappleguy.com/basicappleblog/push-up-challenge-2026</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/push-up-challenge-2026</guid>
-      <description>From February 5-27, I will attempt to do 4,000 pushups to help raise money to support mental health initiatives across Canada.</description>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
-      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1770061444128-FWSJJFT7HJ7ZSDXCDE3E/PUC3x2.png" medium="image" />
     </item>
   </channel>
 </rss>
