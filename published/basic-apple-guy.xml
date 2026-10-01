@@ -4,7 +4,15 @@
     <title>Basic Apple Guy</title>
     <link>https://basicappleguy.com/</link>
     <description>Latest posts from Basic Apple Guy.</description>
-    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>A History of iPhone Invites</title>
+      <link>https://basicappleguy.com/basicappleblog/a-history-of-iphone-invites</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/a-history-of-iphone-invites</guid>
+      <description>A visual history of Apple’s iPhone events.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1790889304864-MPRQ1UOO6HG4WLFPGFOI/AppleiPhoneEventHistory.png" medium="image" />
+    </item>
     <item>
       <title>Apple Maps, Apple Stores</title>
       <link>https://basicappleguy.com/basicappleblog/apple-maps-apple-stores</link>
@@ -196,14 +204,6 @@
       <description>Apple turns 50 on April 01, 2026.</description>
       <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
       <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1773362950614-3PFOKHJJEA9Q69OTUPYB/Apple50_3x2.png" medium="image" />
-    </item>
-    <item>
-      <title>Lil Finder Guy</title>
-      <link>https://basicappleguy.com/basicappleblog/lil-finder-guy</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/lil-finder-guy</guid>
-      <description>Who is it? What is it? Is it friend or foe? Has it arrived in peace, or is it plotting to corrupt our SSDs and fray our USB-C cables?</description>
-      <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
-      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1772989911603-XHHDIXTZII0YC6LFLOZI/Lil+Finder+Guy+2.png" medium="image" />
     </item>
   </channel>
 </rss>
