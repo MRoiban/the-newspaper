@@ -4,7 +4,14 @@
     <title>The Brussels Times</title>
     <link>https://www.brusselstimes.com/world</link>
     <description>Latest posts from The Brussels Times.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>EU remembers 7 October terrorist attack amid polarised Israeli memorials</title>
+      <link>https://www.brusselstimes.com/world/2350344/eu-remembers-7-october-terrorist-attack-amid-polarised-israeli-memorials</link>
+      <guid isPermaLink="true">https://www.brusselstimes.com/world/2350344/eu-remembers-7-october-terrorist-attack-amid-polarised-israeli-memorials</guid>
+      <description>“What happened was a massacre of civilians inside their homes, a heinous crime against humanity.”</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Up to 500 French schools suspend Monday classes due to violent protests</title>
       <link>https://www.brusselstimes.com/world/2345941/up-to-500-french-schools-suspend-monday-classes-due-to-violent-protests</link>
@@ -137,13 +144,6 @@
       <guid isPermaLink="true">https://www.brusselstimes.com/world/2339867/flight-from-dubai-to-israel-lands-in-saudi-arabi-after-crash-attempt</guid>
       <description>&quot;A passenger describes harrowing scenes when the plane dropped height sharply.&quot;</description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cargo ship stranded in Düsseldorf due to low water levels</title>
-      <link>https://www.brusselstimes.com/world/2338784/cargo-ship-stranded-in-dusseldorf-due-to-low-water-levels</link>
-      <guid isPermaLink="true">https://www.brusselstimes.com/world/2338784/cargo-ship-stranded-in-dusseldorf-due-to-low-water-levels</guid>
-      <description>Drought and low rainfall have left water levels in the Rhine unusually low, forcing cargo ships to reduce loads and causing some ferries to suspend services.</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
