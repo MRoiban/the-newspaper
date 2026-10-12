@@ -4,7 +4,14 @@
     <title>The Brussels Times</title>
     <link>https://www.brusselstimes.com/brussels</link>
     <description>Latest Brussels posts from The Brussels Times.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Nearly 40% of drivers in Belgium avoid cities because of parking problems</title>
+      <link>https://www.brusselstimes.com/brussels/2354091/nearly-4-in-10-drivers-avoid-cities-because-of-parking-touring-survey-finds</link>
+      <guid isPermaLink="true">https://www.brusselstimes.com/brussels/2354091/nearly-4-in-10-drivers-avoid-cities-because-of-parking-touring-survey-finds</guid>
+      <description>Three in four respondents find street parking (too) expensive, and 83% think it is just a “cash cow” for authorities.</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Workers&apos; Party shakes off links to Friday&apos;s Brussels riots</title>
       <link>https://www.brusselstimes.com/brussels/2356387/workers-party-shakes-off-links-to-fridays-brussels-riots</link>
@@ -137,13 +144,6 @@
       <guid isPermaLink="true">https://www.brusselstimes.com/brussels/2350206/ixelles-commune-introduces-free-parking-permits-for-garages-blocked-by-roadworks</guid>
       <description>The new permits will apply when roadworks affect a parking space for at least 10 working days.</description>
       <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brussels Airport to cancel 140 flights due to ground handler action</title>
-      <link>https://www.brusselstimes.com/brussels/2348926/brussels-airport-to-cancel-140-flights-due-to-ground-handler-action</link>
-      <guid isPermaLink="true">https://www.brusselstimes.com/brussels/2348926/brussels-airport-to-cancel-140-flights-due-to-ground-handler-action</guid>
-      <description>Around 140 flights landing and departing at Brussels Airport on Friday will be cancelled, as ground handler Alyzia is severely affected by the national actions.</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
