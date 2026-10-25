@@ -4,7 +4,15 @@
     <title>Basic Apple Guy</title>
     <link>https://basicappleguy.com/</link>
     <description>Latest posts from Basic Apple Guy.</description>
-    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>iPhone Duo: Impressions in Motion</title>
+      <link>https://basicappleguy.com/basicappleblog/iphone-duo-impressions-in-motion</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/iphone-duo-impressions-in-motion</guid>
+      <description>My unfolding thoughts on the iPhone Duo.</description>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1792962899467-NHY1H8PWDP07BR03W2O3/Unfolding3x2.png" medium="image" />
+    </item>
     <item>
       <title>A History of iPhone Invites</title>
       <link>https://basicappleguy.com/basicappleblog/a-history-of-iphone-invites</link>
@@ -196,14 +204,6 @@
       <description>Apple ended the fraught and fumbled era of the Mac Pro on March 26, 2026.</description>
       <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
       <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1774582873986-RJYQRL9D17JNOVOCEO7W/MacPro3x2.png" medium="image" />
-    </item>
-    <item>
-      <title>50 Years of Thinking Different</title>
-      <link>https://basicappleguy.com/basicappleblog/apple50</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/apple50</guid>
-      <description>Apple turns 50 on April 01, 2026.</description>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
-      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1773362950614-3PFOKHJJEA9Q69OTUPYB/Apple50_3x2.png" medium="image" />
     </item>
   </channel>
 </rss>
