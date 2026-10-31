@@ -4,7 +4,14 @@
     <title>The Brussels Times</title>
     <link>https://www.brusselstimes.com/brussels</link>
     <description>Latest Brussels posts from The Brussels Times.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Severe fire in Brussels building</title>
+      <link>https://www.brusselstimes.com/brussels/2385901/severe-fire-in-brussels-building</link>
+      <guid isPermaLink="true">https://www.brusselstimes.com/brussels/2385901/severe-fire-in-brussels-building</guid>
+      <description>One person suffered severe smoke inhalation.</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>City of Brussels loses millions as it temporarily extends casino license</title>
       <link>https://www.brusselstimes.com/brussels/2385055/city-of-brussels-loses-millions-as-it-temporarily-extends-casino-license</link>
@@ -137,13 +144,6 @@
       <guid isPermaLink="true">https://www.brusselstimes.com/brussels/2379855/justice-ministers-spokesperson-in-the-hot-seat-over-alleged-breach-of-professional-secrecy</guid>
       <description>Belgian opposition parties are demanding transparency and a parliamentary inquiry after two spokespersons were charged in connection with the failed i-Police project.</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brussels&apos; Kanal Museum site reopened following reports of gas leak</title>
-      <link>https://www.brusselstimes.com/brussels/2379062/kanal-museum-site-evacuated-following-reports-of-gas-leak</link>
-      <guid isPermaLink="true">https://www.brusselstimes.com/brussels/2379062/kanal-museum-site-evacuated-following-reports-of-gas-leak</guid>
-      <description>Firefighters, police and gas network operator Sibelga were sent to the scene to trace the source of the potential gas leak, according to the Brussels fire service.</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
