@@ -4,7 +4,14 @@
     <title>The Brussels Times</title>
     <link>https://www.brusselstimes.com/world</link>
     <description>Latest posts from The Brussels Times.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Greenpeace criticises UN biodiversity summit</title>
+      <link>https://www.brusselstimes.com/world/2386050/greenpeace-criticises-un-biodiversity-summit</link>
+      <guid isPermaLink="true">https://www.brusselstimes.com/world/2386050/greenpeace-criticises-un-biodiversity-summit</guid>
+      <description>The summit held in Yerevan, Armenia was said not to have brought the action needed to halt nature loss.</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Crypto exchange Binance loses €5.4 billion in hack</title>
       <link>https://www.brusselstimes.com/world/2384541/crypto-exchange-binance-loses-e5-4-billion-in-hack</link>
@@ -137,13 +144,6 @@
       <guid isPermaLink="true">https://www.brusselstimes.com/world/2374636/php-warns-outdated-websites-remain-vulnerable-to-attacks</guid>
       <description>Websites running on outdated versions of PHP remain vulnerable unless they are updated, the PHP Foundation has warned.</description>
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘I stayed in emergency mode’: How Iranian students in Belgium grapple with the ongoing war</title>
-      <link>https://www.brusselstimes.com/world/2369805/my-mind-stayed-in-emergency-mode-how-iranian-students-in-belgium-grapple-with-the-ongoing-war</link>
-      <guid isPermaLink="true">https://www.brusselstimes.com/world/2369805/my-mind-stayed-in-emergency-mode-how-iranian-students-in-belgium-grapple-with-the-ongoing-war</guid>
-      <description>While internet access in Iran has been partially restored and the protests have been crushed, the crisis hasn’t ended for Iranian students in Belgium.</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
