@@ -4,7 +4,15 @@
     <title>Basic Apple Guy</title>
     <link>https://basicappleguy.com/</link>
     <description>Latest posts from Basic Apple Guy.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Eucalypt</title>
+      <link>https://basicappleguy.com/basicappleblog/eucalypt</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/eucalypt</guid>
+      <description>Introducing Eucalypt, a wallpaper inspired by tree bark?</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1793760939560-32ZV3JX5IVR97ZO9L26T/Eucalypt_3x2.png/" medium="image" />
+    </item>
     <item>
       <title>iPhone Duo: Impressions in Motion</title>
       <link>https://basicappleguy.com/basicappleblog/iphone-duo-impressions-in-motion</link>
@@ -196,14 +204,6 @@
       <description>A collection of monochrome Apple “MAC” Wallpapers.</description>
       <pubDate>Sat, 28 Mar 2026 00:00:00 GMT</pubDate>
       <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1774647098423-I8ER0UQLZQDPVSJJBASR/Mac_iMac3x2.png/" medium="image" />
-    </item>
-    <item>
-      <title>Mac Pro</title>
-      <link>https://basicappleguy.com/basicappleblog/mac-pro</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/mac-pro</guid>
-      <description>Apple ended the fraught and fumbled era of the Mac Pro on March 26, 2026.</description>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-      <media:content url="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1774582873986-RJYQRL9D17JNOVOCEO7W/MacPro3x2.png/" medium="image" />
     </item>
   </channel>
 </rss>
