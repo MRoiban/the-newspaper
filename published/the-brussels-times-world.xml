@@ -4,7 +4,14 @@
     <title>The Brussels Times</title>
     <link>https://www.brusselstimes.com/world</link>
     <description>Latest posts from The Brussels Times.</description>
-    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Global outage at Microsoft affects Outlook, Teams and Copilot - no clear solution in sight</title>
+      <link>https://www.brusselstimes.com/world/2405348/microsoft-services-face-mass-outage-without-clear-resolution-in-sight-tbtb</link>
+      <guid isPermaLink="true">https://www.brusselstimes.com/world/2405348/microsoft-services-face-mass-outage-without-clear-resolution-in-sight-tbtb</guid>
+      <description>Several Microsoft cloud services, including Microsoft 365, Outlook, Teams and Copilot, were disrupted.</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>US-Iran war has caused over $200 billion in damage in the Gulf, report shows</title>
       <link>https://www.brusselstimes.com/world/2403011/us-iran-war-has-caused-over-200-billion-in-damage-in-the-gulf-report</link>
@@ -137,13 +144,6 @@
       <guid isPermaLink="true">https://www.brusselstimes.com/world/2389772/us-voters-in-belgium-weigh-in-on-election-seen-as-referendum-on-trump-tbtb</guid>
       <description>According to polls, Democrats are expected to win at least one and potentially both bodies of Congress as Trump&apos;s approval rating is at an all-time low.</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘Association without accession’: Why the EU is offering Canada ‘ever-closer’ partnership</title>
-      <link>https://www.brusselstimes.com/world/2388129/association-without-accession-why-the-eu-is-offering-canada-ever-closer-partnership</link>
-      <guid isPermaLink="true">https://www.brusselstimes.com/world/2388129/association-without-accession-why-the-eu-is-offering-canada-ever-closer-partnership</guid>
-      <description>&quot;We can build a partnership that comes closer to membership than anything we have done before.”</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
